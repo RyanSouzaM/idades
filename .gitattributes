@@ -1,2 +1,8 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+$frutas = ["🍓", "🍇","🥥"];
+$frutas[3] = "🍍";
+array_push($frutas, "🍒");
+ 
+
+echo count($frutas);
+ 
+echo "<h1>lanchonete</h1>";
